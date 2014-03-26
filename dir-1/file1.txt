@@ -1,0 +1,3 @@
+this is dir-1/file1.txt line1
+3/26/2014 11:36
+
